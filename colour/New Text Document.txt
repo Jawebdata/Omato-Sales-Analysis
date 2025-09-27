@@ -1,0 +1,8 @@
+yellow colour- #FFF212
+
+red colour - #ED3237
+
+blue colour - #1E5C7E
+
+red + #F47073
+yellow +  #F4EA56
